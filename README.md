@@ -5,7 +5,7 @@ Welcome to the NLP Basics Implementation Tutorial! This repository contains a se
 
 ## Notebooks Overview
 
-1. **Explore_NLTK.ipynb**: Introduction to the Natural Language Toolkit (NLTK) library, covering basic NLP functionalities such as tokenization, stemming, and part-of-speech tagging.
+1. **Explore_NLTK.ipynb**: Introduction to the Natural Language Toolkit (NLTK) library.
 
 2. **Exploring Word Tokenization and Frequency Analysis with NLTK.ipynb**: Implementation of word tokenization using NLTK, alongside frequency distribution analysis. Learn to preprocess text data for further analysis.
 
